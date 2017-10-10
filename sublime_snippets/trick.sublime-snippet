@@ -3,7 +3,7 @@
 /*
  * "${1/.*/$0/}". An awesome trick for BC Pie.
  * http://bcpie.com
- * Copyright 2015, Company Name
+ * Copyright ${3}, ${6:Company Name}
 */
 
 bcpie.extensions.tricks.${1:Trick} = function(selector,options) {
