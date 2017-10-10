@@ -1,7 +1,7 @@
 {
   "name": "bcpie.js",
   "version": "1.0.0",
-  "description": "BC Pie's bag of tricks for Business Catalyst.",
+  "description": "BC Pie's big bag of tricks for Business Catalyst.",
   "main": "dist/bcpie.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
