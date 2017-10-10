@@ -1,3 +1,2 @@
-.codekit3
-idea
-node_modules
+*.codekit3
+/node_modules
